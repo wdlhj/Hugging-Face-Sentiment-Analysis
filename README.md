@@ -25,3 +25,7 @@ What the model gets *wrong*. The error analysis section shows which reviews conf
 ## Learned that...
 
 Understanding *where* pr-trained models fail is what separates using a tool from understanding it.
+
+## License
+
+This project is open source and available under the MIT License.
